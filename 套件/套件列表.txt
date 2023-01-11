@@ -1,0 +1,5 @@
+pip install shioaji
+pip install backtesting
+pip install pandas==1.4.4
+pip install bokeh==2.4.3
+pip install setuptools==57.5.0
